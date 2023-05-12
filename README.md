@@ -37,10 +37,7 @@ To use this template, follow these steps:
 1. Clone the repository
 2. Create a virtual environment and activate it
 3. Install the dependencies with `pip install -r requirements.txt`
-4. Create a new Django project using the template with `django-admin startproject --template=djang-ddd-service-template <project_name>`
-5. Rename the `example` folder to the name of your app
-6. Implement your business logic in the Domain layer and use cases in the Application layer
-7. Implement the input and output adapters in the Infrastructure layer
+4. Delete example code / use it as a guide for how to use the project structure
 
 ## Conclusion
 
